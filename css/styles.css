@@ -118,7 +118,6 @@ h1 {
 }
 .contentContact{
     background-color: rgb(28, 28, 29);
-    filter: opacity(90%);
     border-radius: 0.375rem;
     max-width: 50%;
     padding-top: 3rem; 
